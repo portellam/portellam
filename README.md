@@ -5,7 +5,7 @@
 the courage to change the things I can,
 and the wisdom to know the difference.”
 ```
-[**Progress Tracker**][github0]
+[**Go to Progress Tracker**][github0]
 
 [github0]: https://github.com/portellam/progress-tracker
 
