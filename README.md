@@ -11,7 +11,7 @@ and the wisdom to know the difference.”
 | :--- | :---        |
 | [Deploy VFIO][github1]                         |  Effortlessly deploy a hardware-passthrough (VFIO) setup for Virtual Machines (VMs) on a Linux desktop. Includes quality-of-life features that you didn't think you need! |
 | [Auto X.Org][github2]                          |  Automatically set the proper video output given a video device (VGA) is unavailable due to hardware-passthrough (VFIO) or any other reason, in the X.Org display environment for a Linux machine. |
-| [Generate Evdev][github3]                      |  Easily setup a virtual Keyboard-Video-Mouse (KVM) switch for Virtual Machines (VMs) on the Linux desktop. Bash script. |
+| [Generate Evdev][github3]                      |  Easily setup a virtual Keyboard-Video-Mouse (KVM) switch for Virtual Machines (VMs) on the Linux desktop. |
 | [Guest Machine Guide][github4]                 |  Guide for setup of a Virtual Machine (VM) on the Linux desktop. Includes general overview, optimizations for Windows VMs and hardware-passthrough (VFIO), and more. |
 | [Libvirt Hooks][github5]                       |  Install scripts (hooks) of which extend and enhance the functionality of Virtual Machines (VMs) on Linux. Hooks may run at either VM start or stop, and/or be VM-specific. Develop your own, too! |
 | [Parse IOMMU Devices][github6]                 |  Bash script to parse, sort, and display hardware devices by IOMMU group, and return the device drivers and hardware IDs as output. |
