@@ -8,7 +8,7 @@
 | Guest Machine Guide<sup><code style="color : red">Developing</code></sup>                           | [link][codeberg4] | [link][github4] |
 | Libvirt Hooks<sup><code style="color : green">Releases Available</code></sup>                       | [link][codeberg5] | [link][github5] |
 | Parse IOMMU Devices<sup><code style="color : green">Releases Available</code></sup>                 | [link][codeberg6] | [link][github6] |
-| Power State Virtual Machine Manager<sup><code style="color : green">Releases Available</code></sup> | [link][codeberg7] | [link][github7] |
+| <code style="color : green">Power State Virtual Machine Manager</code> | [link][codeberg7] | [link][github7] |
 
 | Other projects                                                                     | Codeberg          | GitHub          |
 | :---                                                                               | :---:             | :---:           |
