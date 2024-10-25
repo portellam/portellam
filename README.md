@@ -1,20 +1,20 @@
 ## Alex Portell
 
-| VFIO related projects                                                                               | Codeberg          | GitHub          |
-| :---                                                                                                | :---:             | :---:           |
-| Deploy VFIO<sup><code style="color : green">Releases Available</code></sup>                         | [link][codeberg1] | [link][github1] |
-| Auto X.Org<sup><code style="color : green">Releases Available</code></sup>                          | [link][codeberg2] | [link][github2] |
-| Generate Evdev<sup><code style="color : green">Releases Available</code></sup>                      | [link][codeberg3] | [link][github3] |
-| Guest Machine Guide<sup><code style="color : red">Developing</code></sup>                           | [link][codeberg4] | [link][github4] |
-| Libvirt Hooks<sup><code style="color : green">Releases Available</code></sup>                       | [link][codeberg5] | [link][github5] |
-| Parse IOMMU Devices<sup><code style="color : green">Releases Available</code></sup>                 | [link][codeberg6] | [link][github6] |
-| <code style="color : green">Power State Virtual Machine Manager</code> | [link][codeberg7] | [link][github7] |
+| VFIO related projects               | Codeberg          | GitHub          |
+| :---                                | :---:             | :---:           |
+| Deploy VFIO                         | [link][codeberg1] | [link][github1] |
+| Auto X.Org                          | [link][codeberg2] | [link][github2] |
+| Generate Evdev                      | [link][codeberg3] | [link][github3] |
+| Guest Machine Guide                 | [link][codeberg4] | [link][github4] |
+| Libvirt Hooks                       | [link][codeberg5] | [link][github5] |
+| Parse IOMMU Devices                 | [link][codeberg6] | [link][github6] |
+| Power State Virtual Machine Manager | [link][codeberg7] | [link][github7] |
 
-| Other projects                                                                     | Codeberg          | GitHub          |
-| :---                                                                               | :---:             | :---:           |
-| Lakeside Mall Archive                                                              | [link][codebergA] | [link][githubA] |
-| UnleashX XML Config<sup><code style="color : red">Developing</code></sup>          | [link][codebergB] | [link][githubB] |
-| Virtual Audio Cable Manager<sup><code style="color : red">Developing</code></sup>  | [link][codebergC] | [link][githubC] |
+| Other projects               | Codeberg          | GitHub          |
+| :---                         | :---:             | :---:           |
+| Lakeside Mall Archive        | [link][codebergA] | [link][githubA] |
+| UnleashX XML Config          | [link][codebergB] | [link][githubB] |
+| Virtual Audio Cable Manager  | [link][codebergC] | [link][githubC] |
 
 [codeberg1]: https://codeberg.org/portellam/deploy-VFIO
 [github1]:   https://github.com/portellam/deploy-VFIO
