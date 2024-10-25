@@ -5,9 +5,6 @@
 the courage to change the things I can,
 and the wisdom to know the difference.”
 ```
-Helping others, no matter how small, over time can lead to big changes. Paying it forward this way can be a real bargain. *rubs hands*
-
-
 
 ## VFIO related projects
 | Name | Description |
