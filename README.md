@@ -10,7 +10,7 @@ and the wisdom to know the difference.”
 [**Go to Progress Tracker**][github00]
 
 ## Research projects
-  - [Lakeside Mall Archive][github05]
+  - [<sub>Lakeside Mall Archive</sub>][github05]
 
 ## Scripts
   - [Lockdown.sh][github07]
