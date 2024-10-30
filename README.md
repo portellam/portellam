@@ -28,6 +28,7 @@ and the wisdom to know the difference.”
 <sub>[Deploy VFIO][github02] | [Auto X.Org][github01] | [Generate Evdev][github03] | [Libvirt Hooks][github06] | [Parse IOMMU Devices][github08]</sub>
 
 **Video game console projects:**
+
 <sub>[UnleashX XML Config][github10]</sub>
 
 [github00]: https://github.com/portellam/progress-tracker
