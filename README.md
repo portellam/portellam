@@ -10,25 +10,25 @@ and the wisdom to know the difference.”
 [**Go to Progress Tracker**][github00]
 
 ### Research projects
-[<sub>Lakeside Mall Archive</sub>][github05]
+<sub>[Lakeside Mall Archive][github05]</sub>
 
 ### Scripts
-[<sub>Lockdown.sh</sub>][github07]
+<sub>[Lockdown.sh][github07]</sub>
 
 ### Windows applications
-[<sub>Virtual Audio Cable Manager</sub>][github11]
+<sub>[Virtual Audio Cable Manager][github11]</sub>
 
 ### VFIO applications
-[<sub>Power State Virtual Machine Manager</sub>][github09]
+<sub>[Power State Virtual Machine Manager][github09]</sub>
 
 ## VFIO documentation
-[<sub>Guest Machine Guide</sub>][github04]
+<sub>[Guest Machine Guide][github04]</sub>
 
 ### VFIO scripts
-[<sub>Deploy VFIO</sub>][github02] | [<sub>Auto X.Org</sub>][github01] | [<sub>Generate Evdev</sub>][github03] | [<sub>Libvirt Hooks</sub>][github06] | [<sub>Parse IOMMU Devices</sub>][github08]
+<sub>[Deploy VFIO][github02] | [Auto X.Org][github01] | [Generate Evdev][github03] | [Libvirt Hooks][github06] | [Parse IOMMU Devices][github08]</sub>
 
 ### Video game console projects
-[<sub>UnleashX XML Config</sub>][github10]
+<sub>[UnleashX XML Config][github10]</sub>
 
 [github00]: https://github.com/portellam/progress-tracker
 [codeberg01]: https://codeberg.org/portellam/auto-xorg
