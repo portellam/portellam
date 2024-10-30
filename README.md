@@ -1,9 +1,9 @@
 ## Alex Portell
-*“You are never too old to set another goal or to dream a new dream.“* - C.S Lewis
+*“You are never too old to set another goal or to dream a new dream.“* <sub>- C.S Lewis</sub>
 
 *“Lord, grant me the strength to accept the things I cannot change,
 the courage to change the things I can,
-and the wisdom to know the difference.“*  - "Serenity Prayer", Reinhold Niebuhr
+and the wisdom to know the difference.“* <sub>- "Serenity Prayer", Reinhold Niebuhr</sub>
 
 [**Go to Progress Tracker**][github00]
 
