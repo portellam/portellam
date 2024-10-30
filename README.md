@@ -10,25 +10,25 @@ and the wisdom to know the difference.”
 [**Go to Progress Tracker**][github00]
 
 ### Research projects
-**[<sub>Lakeside Mall Archive</sub>][github05]**
+[<sub>Lakeside Mall Archive</sub>][github05]
 
 ### Scripts
-**[<sub>Lockdown.sh</sub>][github07]**
+[<sub>Lockdown.sh</sub>][github07]
 
 ### Windows applications
-**[<sub>Virtual Audio Cable Manager</sub>][github11]**
+[<sub>Virtual Audio Cable Manager</sub>][github11]
 
 ### VFIO applications
-**[<sub>Power State Virtual Machine Manager</sub>][github09]**
+[<sub>Power State Virtual Machine Manager</sub>][github09]
 
 ## VFIO documentation
-**[<sub>Guest Machine Guide</sub>][github04]**
+[<sub>Guest Machine Guide</sub>][github04]
 
 ### VFIO scripts
-**[<sub>Deploy VFIO</sub>][github02]** | **[<sub>Auto X.Org</sub>][github01]** | **[<sub>Generate Evdev</sub>][github03]** | **[<sub>Libvirt Hooks</sub>][github06]** | **[<sub>Parse IOMMU Devices</sub>][github08]**
+[<sub>Deploy VFIO</sub>][github02] | [<sub>Auto X.Org</sub>][github01] | [<sub>Generate Evdev</sub>][github03] | [<sub>Libvirt Hooks</sub>][github06] | [<sub>Parse IOMMU Devices</sub>][github08]
 
 ### Video game console projects
-**[<sub>UnleashX XML Config</sub>][github10]**
+[<sub>UnleashX XML Config</sub>][github10]
 
 [github00]: https://github.com/portellam/progress-tracker
 [codeberg01]: https://codeberg.org/portellam/auto-xorg
