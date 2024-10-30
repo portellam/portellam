@@ -9,25 +9,25 @@ and the wisdom to know the difference.”
 
 [**Go to Progress Tracker**][github00]
 
-#### Research projects
+#### Research projects:
 <sub>[Lakeside Mall Archive][github05]</sub>
 
-#### Scripts
+#### Scripts:
 <sub>[Lockdown.sh][github07]</sub>
 
-#### Windows applications
+#### Windows applications:
 <sub>[Virtual Audio Cable Manager][github11]</sub>
 
-#### VFIO applications
+#### VFIO applications:
 <sub>[Power State Virtual Machine Manager][github09]</sub>
 
-#### VFIO documentation
+#### VFIO documentation:
 <sub>[Guest Machine Guide][github04]</sub>
 
-#### VFIO scripts
+#### VFIO scripts:
 <sub>[Deploy VFIO][github02] | [Auto X.Org][github01] | [Generate Evdev][github03] | [Libvirt Hooks][github06] | [Parse IOMMU Devices][github08]</sub>
 
-#### Video game console projects
+**Video game console projects:**
 <sub>[UnleashX XML Config][github10]</sub>
 
 [github00]: https://github.com/portellam/progress-tracker
