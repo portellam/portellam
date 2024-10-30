@@ -1,11 +1,9 @@
 ## Alex Portell
-
-```
-“Lord, grant me the strength
-to accept the things I cannot change,
+*“Lord, grant me the strength to accept the things I cannot change,
 the courage to change the things I can,
-and the wisdom to know the difference.”
-```
+and the wisdom to know the difference.*
+
+*"You are never too old to set another goal or to dream a new dream."*
 
 [**Go to Progress Tracker**][github00]
 
