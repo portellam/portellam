@@ -12,26 +12,23 @@ and the wisdom to know the difference.”
 #### Research projects:
 <sub>[Lakeside Mall Archive][github05]</sub>
 
-#### Linux
-###### Scripts:
+#### Linux:
 <sub>[Lockdown.sh][github07]</sub>
 
-#### Windows
-###### Applications:
+#### Windows:
 <sub>[Virtual Audio Cable Manager][github11]</sub>
-
-#### VFIO
-###### Applications:
-<sub>[Power State Virtual Machine Manager][github09]</sub>
-
-###### Documentation:
-<sub>[Guest Machine Guide][github04]</sub>
-
-###### Scripts:
-<sub>[Deploy VFIO][github02] | [Auto X.Org][github01] | [Generate Evdev][github03] | [Libvirt Hooks][github06] | [Parse IOMMU Devices][github08]</sub>
 
 #### Video game console projects:
 <sub>[UnleashX XML Config][github10]</sub>
+
+#### VFIO Applications:
+<sub>[Power State Virtual Machine Manager][github09]</sub>
+
+#### VFIO Documentation:
+<sub>[Guest Machine Guide][github04]</sub>
+
+#### VFIO Scripts:
+<sub>[Deploy VFIO][github02] | [Auto X.Org][github01] | [Generate Evdev][github03] | [Libvirt Hooks][github06] | [Parse IOMMU Devices][github08]</sub>
 
 [github00]: https://github.com/portellam/progress-tracker
 [codeberg01]: https://codeberg.org/portellam/auto-xorg
