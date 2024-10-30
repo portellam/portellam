@@ -15,23 +15,17 @@ and the wisdom to know the difference.”
 ### Scripts
 **[<sub>Lockdown.sh</sub>][github07]**
 
-### Windows Apps
+### Windows applications
 **[<sub>Virtual Audio Cable Manager</sub>][github11]**
 
-### VFIO related projects
-**[<sub>Deploy VFIO</sub>][github02]
-
-**[<sub>Auto X.Org</sub>][github01]
-
-**[<sub>Generate Evdev</sub>][github03]
-
-**[<sub>Guest Machine Guide</sub>][github04]
-
-**[<sub>Libvirt Hooks</sub>][github06]
-
-**[<sub>Parse IOMMU Devices</sub>][github08]
-
+### VFIO applications
 **[<sub>Power State Virtual Machine Manager</sub>][github09]**
+
+## VFIO documentation
+**[<sub>Guest Machine Guide</sub>][github04]**
+
+### VFIO scripts
+**[<sub>Deploy VFIO</sub>][github02]** | **[<sub>Auto X.Org</sub>][github01]** | **[<sub>Generate Evdev</sub>][github03]** | **[<sub>Libvirt Hooks</sub>][github06]** | **[<sub>Parse IOMMU Devices</sub>][github08]**
 
 ### Video game console projects
 **[<sub>UnleashX XML Config</sub>][github10]**
