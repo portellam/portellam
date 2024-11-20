@@ -10,7 +10,7 @@ and the wisdom to know the difference.“* <sub>- "Serenity Prayer", Reinhold Ni
 #### Linux:
 <sub>[Lockdown.sh][github07]</sub>
 #### Windows:
-<sub>[Virtual Audio Cable Manager][github11]</sub>
+<sub>[VAC Audio Repeater Manager][github11]</sub>
 #### Video game console projects:
 <sub>[UnleashX XML Config][github10]</sub>
 #### VFIO Applications:
@@ -41,5 +41,5 @@ and the wisdom to know the difference.“* <sub>- "Serenity Prayer", Reinhold Ni
 [github09]:   https://github.com/portellam/powerstate-virtmanager
 [codeberg10]: https://codeberg.org/portellam/unleashx-xml-config
 [github10]:   https://github.com/portellam/unleashx-xml-config
-[codeberg11]: https://codeberg.org/portellam/vac-manager
-[github11]:   https://github.com/portellam/vac-manager
+[codeberg11]: https://codeberg.org/portellam/vac-audio-repeater-manager
+[github11]:   https://github.com/portellam/vac-audio-repeater-manager
