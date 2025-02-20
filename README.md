@@ -1,6 +1,7 @@
 ## Alex Portell
 [<img align="left" width="100" height="100" src="/linktr.ee.png"/>
 <br>](https://linktr.ee/alexportell)
+<br>
 
 *“You are never too old to set another goal or to dream a new dream.“* <sub>- C.S Lewis</sub>
 
