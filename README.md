@@ -1,5 +1,5 @@
 ## Alex Portell
-<sub>[Linktr.ee](https://linktr.ee/alexportell)</sub>
+[Linktr.ee](https://linktr.ee/alexportell)
 
 *“You are never too old to set another goal or to dream a new dream.“* <sub>- C.S Lewis</sub>
 
