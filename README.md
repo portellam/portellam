@@ -1,6 +1,6 @@
 ## Alex Portell
 [<img align="left" width="50" height="50" src="/linktr.ee.png"/>](https://linktr.ee/alexportell)
-[<img align="left" width="50" height="50" src="/linkedin.com.ico"/>](https://linkedin.com/portellam)
+[<img align="left" width="50" height="50" src="/linkedin.com.ico"/>](https://linkedin.com/in/portellam)
 [<img align="left" width="50" height="50" src="/codeberg.org.png"/>](https://codeberg.org/portellam)
 </br></br>
 
