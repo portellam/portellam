@@ -1,6 +1,6 @@
 ## Alex Portell
-[<img align="left" width="100" height="100" src="/linktr.ee.png"/>
-<br>](https://linktr.ee/alexportell)
+[<img align="left" width="100" height="100" src="/linktr.ee.png"/>](https://linktr.ee/alexportell)
+</br>
 </br>
 </br>
 
