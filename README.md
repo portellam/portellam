@@ -10,20 +10,13 @@
 the courage to change the things I can,
 and the wisdom to know the difference.“* <sub>- "Serenity Prayer", Reinhold Niebuhr</sub>
 
-#### Research projects:
-<sub>[Lakeside Mall Archive][github05]</sub>
-#### GNU/Linux:
-<sub>[Lockdown.sh][github07]</sub>
-#### Microsoft Windows:
-<sub>[VAC Audio Repeater Manager][github11]</sub>
-#### Video game console projects:
-<sub>[UnleashX XML Config][github10]</sub>
-#### VFIO Applications:
-<sub>[Power State Virtual Machine Manager][github09]</sub>
-#### VFIO Documentation:
-<sub>[Guest Machine Guide][github04]</sub>
-#### VFIO Scripts:
-<sub>[Deploy VFIO][github02] | [Auto X.Org][github01] | [Generate Evdev][github03] | [Libvirt Hooks][github06] | [Parse IOMMU Devices][github08]</sub>
+#### Research projects: <sub>[Lakeside Mall Archive][github05]</sub>
+#### GNU/Linux: <sub>[Lockdown.sh][github07]</sub>
+#### Microsoft Windows: <sub>[VAC Audio Repeater Manager][github11]</sub>
+#### Video game console projects: <sub>[UnleashX XML Config][github10]</sub>
+#### VFIO Applications: <sub>[Power State Virtual Machine Manager][github09]</sub>
+#### VFIO Documentation: <sub>[Guest Machine Guide][github04]</sub>
+#### VFIO Scripts: <sub>[Deploy VFIO][github02] | [Auto X.Org][github01] | [Generate Evdev][github03] | [Libvirt Hooks][github06] | [Parse IOMMU Devices][github08]</sub>
 
 [github00]: https://github.com/portellam/progress-tracker
 [codeberg01]: https://codeberg.org/portellam/auto-xorg
