@@ -12,9 +12,9 @@ and the wisdom to know the difference.“* <sub>- "Serenity Prayer", Reinhold Ni
 
 #### Research projects:
 <sub>[Lakeside Mall Archive][github05]</sub>
-#### Linux:
+#### GNU/Linux:
 <sub>[Lockdown.sh][github07]</sub>
-#### Windows:
+#### Microsoft Windows:
 <sub>[VAC Audio Repeater Manager][github11]</sub>
 #### Video game console projects:
 <sub>[UnleashX XML Config][github10]</sub>
