@@ -1,4 +1,6 @@
 ## Alex Portell
+<sub>[Linktr.ee](https://linktr.ee/alexportell)</sub>
+
 *“You are never too old to set another goal or to dream a new dream.“* <sub>- C.S Lewis</sub>
 
 *“Lord, grant me the strength to accept the things I cannot change,
