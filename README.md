@@ -11,18 +11,15 @@ the courage to change the things I can,
 and the wisdom to know the difference.“* <sub>- "Serenity Prayer", Reinhold Niebuhr</sub>
 
 ### View all VFIO projects [here][github04].
----
-#### GNU/Linux:
+### GNU/Linux:
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Lockdown.sh][github01]
 
----
-#### Microsoft Windows:
+### Microsoft Windows:
 
 &nbsp;&nbsp;[VAC Audio Repeater Manager][github03]
 
----
-#### Video game console projects:
+### Video game console projects:
 
 &nbsp;&nbsp;[UnleashX XML Config][github02]
 
