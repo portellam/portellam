@@ -10,7 +10,7 @@
 the courage to change the things I can,
 and the wisdom to know the difference.“* <sub>- "Serenity Prayer", Reinhold Niebuhr</sub>
 
-## View all VFIO projects: <sub>[VFIO Collection][github04]</sub>
+### View all VFIO projects: <sub>[VFIO Collection][github04]</sub>
 
 #### GNU/Linux: <sub>[Lockdown.sh][github01]</sub>
 #### Microsoft Windows: <sub>[VAC Audio Repeater Manager][github03]</sub>
