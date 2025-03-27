@@ -1,5 +1,5 @@
 ## Alex Portell
-[<img title="Go to another Git repository" align="left" width="50" height="50" src="/codeberg.org.png"/>](https://codeberg.org/portellam)
+[<img title="Go to another Git repository" align="top" width="50" height="50" src="/codeberg.org.png"/>](https://codeberg.org/portellam)
 </br>
 </br>
 [<img title="Go to Linktree" align="left" width="50" height="50" src="/linktr.ee.png"/>](https://linktr.ee/alexportell)
