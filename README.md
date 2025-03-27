@@ -13,7 +13,7 @@ and the wisdom to know the difference.“* <sub>- "Serenity Prayer", Reinhold Ni
 ### View all VFIO projects [here][github04].
 ### GNU/Linux:
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Lockdown.sh][github01]
+&nbsp;&nbsp;[Lockdown.sh][github01]
 
 ### Microsoft Windows:
 
