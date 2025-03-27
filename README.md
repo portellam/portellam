@@ -11,7 +11,7 @@ the courage to change the things I can,
 and the wisdom to know the difference.“* <sub>- "Serenity Prayer", Reinhold Niebuhr</sub>
 
 ### View all VFIO projects [here][github04].
-### GNU/Linux:
+### Linux:
 
 &nbsp;&nbsp;[Lockdown.sh][github01]
 
