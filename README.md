@@ -3,18 +3,28 @@
 [<img align="left" width="50" height="50" src="/linkedin.com.ico"/>](https://linkedin.com/in/portellam)
 [<img align="left" width="50" height="50" src="/codeberg.org.png"/>](https://codeberg.org/portellam)
 </br></br>
-
+---
 *“You are never too old to set another goal or to dream a new dream.“* <sub>- C.S Lewis</sub>
 
 *“Lord, grant me the strength to accept the things I cannot change,
 the courage to change the things I can,
 and the wisdom to know the difference.“* <sub>- "Serenity Prayer", Reinhold Niebuhr</sub>
 
-### View all VFIO projects: <sub>[VFIO Collection][github04]</sub>
+### View all VFIO projects [here][github04].
+---
+#### GNU/Linux:
 
-#### GNU/Linux: <sub>[Lockdown.sh][github01]</sub>
-#### Microsoft Windows: <sub>[VAC Audio Repeater Manager][github03]</sub>
-#### Video game console projects: <sub>[UnleashX XML Config][github02]</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;[Lockdown.sh][github01]
+
+---
+#### Microsoft Windows:
+
+&nbsp;&nbsp;[VAC Audio Repeater Manager][github03]
+
+---
+#### Video game console projects:
+
+&nbsp;&nbsp;[UnleashX XML Config][github02]
 
 [codeberg01]: https://github.com/portellam/lockdown.sh
 [github01]:   https://github.com/portellam/lockdown.sh
