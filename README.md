@@ -14,27 +14,29 @@ and the wisdom to know the difference.“* <sub>- "Serenity Prayer", Reinhold Ni
 
 ### Note taking templates:
 
-&nbsp;&nbsp;[Obsidian templates][github03]
-&nbsp;&nbsp;[Obsidian workflow][github04]
+&nbsp;&nbsp;[Obsidian PARA][github03]
+&nbsp;&nbsp;[Obsidian templates][github04]
+&nbsp;&nbsp;[Obsidian workflow][github05]
 
 ### Linux projects:
 
 &nbsp;&nbsp;[ACPI Sleep][github01]
 &nbsp;&nbsp;[Lockdown.sh][github02]
-&nbsp;&nbsp;[VFIO Collection][github07]
+&nbsp;&nbsp;[VFIO Collection][github08]
 
 ### Microsoft Windows applications:
 
-&nbsp;&nbsp;[VAC Audio Repeater Manager][github06]
+&nbsp;&nbsp;[VAC Audio Repeater Manager][github07]
 
 ### Video game console projects:
 
-&nbsp;&nbsp;[UnleashX XML Config][github05]
+&nbsp;&nbsp;[UnleashX XML Config][github06]
 
 [github01]:   https://github.com/portellam/acpi-sleep
 [github02]:   https://github.com/portellam/lockdown.sh
-[github03]:   https://github.com/portellam/obsidian-templates
-[github04]:   https://github.com/portellam/obsidian-workflow
-[github05]:   https://github.com/portellam/unleashx-xml-config
-[github06]:   https://github.com/portellam/vac-audio-repeater-manager
-[github07]:   https://github.com/portellam/vfio-collection
+[github03]:   https://github.com/portellam/obsidian-para
+[github04]:   https://github.com/portellam/obsidian-templates
+[github05]:   https://github.com/portellam/obsidian-workflow
+[github06]:   https://github.com/portellam/unleashx-xml-config
+[github07]:   https://github.com/portellam/vac-audio-repeater-manager
+[github08]:   https://github.com/portellam/vfio-collection
