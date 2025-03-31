@@ -1,7 +1,7 @@
 ## Alex Portell
 **Socials:**
 [<img title="Linktree" align="left" width="50" height="50" src="./linktr.ee.png"/>](https://linktr.ee/alexportell)
-[<img title=LinkedIn" align="left" width="50" height="50" src="./linkedin.com.ico"/>](https://linkedin.com/in/portellam)
+[<img title="LinkedIn" align="left" width="50" height="50" src="./linkedin.com.ico"/>](https://linkedin.com/in/portellam)
 </br></br>
 
 **Software portfolio mirrors:**
