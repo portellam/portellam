@@ -1,10 +1,10 @@
 ## Alex Portell
-**Socials:**
+**Socials:**&nbsp;&nbsp;
 [<img title="Linktree" align="left" width="50" height="50" src="./linktr.ee.png"/>](https://linktr.ee/alexportell)
 [<img title="LinkedIn" align="left" width="50" height="50" src="./linkedin.com.ico"/>](https://linkedin.com/in/portellam)
 </br></br>
 
-**Software portfolio mirrors:**
+**Software portfolio mirrors:**&nbsp;&nbsp;
 [<img title="Codeberg" align="left" width="50" height="50" src="./codeberg.org.png"/>](https://codeberg.org/portellam)
 [<img title="Gitea" align="left" height="50" src="./gitea.com.png"/>](https://gitea.com/portellam)
 [<img title="GitHub" align="left" height="50" src="./github.com.png"/>](https://github.com/portellam)
