@@ -35,11 +35,11 @@ and the wisdom to know the difference.“* <sub>- "Serenity Prayer", Reinhold Ni
 
 &nbsp;&nbsp;[UnleashX XML Config][github06]
 
-[1]:          (https://codeberg.org/portellam)
-[2]:          (https://gitea.com/portellam)
-[3]:          (https://github.com/portellam)
-[4]:          (https://linkedin.com/in/portellam)
-[5]:          (https://linktr.ee/alexportell)
+[1]:          https://codeberg.org/portellam
+[2]:          https://gitea.com/portellam
+[3]:          https://github.com/portellam
+[4]:          https://linkedin.com/in/portellam
+[5]:          https://linktr.ee/alexportell
 [github01]:   https://github.com/portellam/acpi-sleep
 [github02]:   https://github.com/portellam/lockdown.sh
 [github03]:   https://github.com/portellam/obsidian-para
