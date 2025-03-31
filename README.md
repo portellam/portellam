@@ -6,8 +6,8 @@
 
 ### Software portfolio mirrors:
 [<img title="Go to Codeberg" align="left" width="50" height="50" src="./codeberg.org.png"/>](https://codeberg.org/portellam)
-[<img title="Go to Gitea" align="left" width="50" height="50" src="./gitea.com.png"/>](https://gitea.com/portellam)
-[<img title="Go to GitHub" align="left" width="50" height="50" src="./github.com.png"/>](https://github.com/portellam)</br></br>
+[<img title="Go to Gitea" align="left" height="50" src="./gitea.com.png"/>](https://gitea.com/portellam)
+[<img title="Go to GitHub" align="left" height="50" src="./github.com.png"/>](https://github.com/portellam)</br></br>
 ---
 *“You are never too old to set another goal or to dream a new dream.“* <sub>- C.S Lewis</sub>
 
