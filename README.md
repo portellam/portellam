@@ -1,6 +1,5 @@
 ## Alex Portell
 <p align="left">
-  <b>Socials:</b>
   [<img title="Linktree" width="50" height="50" src="./images/linktr.ee.png"/>][1]
   [<img title="LinkedIn" width="50" height="50" src="./images/linkedin.com.ico"/>][2]
   </br>
@@ -8,7 +7,6 @@
 </p>
 
 <p align="left">
-  <b>Software portfolio mirrors:</b>
   [<img title="Codeberg" width="50" height="50" src="./images/codeberg.org.png"/>][3]
   [<img title="Gitea" height="50" src="./images/gitea.com.png"/>][4]
   [<img title="GitHub" height="50" src="./images/github.com.png"/>][5]
