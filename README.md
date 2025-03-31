@@ -1,14 +1,20 @@
 ## Alex Portell
-**Socials:**</br></br>
-[<img title="Linktree" align="left" width="50" height="50" src="./linktr.ee.png"/>](https://linktr.ee/alexportell)
-[<img title="LinkedIn" align="left" width="50" height="50" src="./linkedin.com.ico"/>](https://linkedin.com/in/portellam)
-</br></br>
+<p align="left">
+  <b>Socials:</b>
+  [<img title="Linktree" width="50" height="50" src="./linktr.ee.png"/>][1]
+  [<img title="LinkedIn" width="50" height="50" src="./linkedin.com.ico"/>][2]
+  </br>
+  </br>
+</p>
 
-**Software portfolio mirrors:**</br>
-[<img title="Codeberg" align="left" width="50" height="50" src="./codeberg.org.png"/>](https://codeberg.org/portellam)
-[<img title="Gitea" align="left" height="50" src="./gitea.com.png"/>](https://gitea.com/portellam)
-[<img title="GitHub" align="left" height="50" src="./github.com.png"/>](https://github.com/portellam)
-</br></br>
+<p align="left">
+  <b>Software portfolio mirrors:</b>
+  [<img title="Codeberg" width="50" height="50" src="./codeberg.org.png"/>][3]
+  [<img title="Gitea" height="50" src="./gitea.com.png"/>][4]
+  [<img title="GitHub" height="50" src="./github.com.png"/>][5]
+  </br>
+  </br>
+</p>
 ---
 *“You are never too old to set another goal or to dream a new dream.“* <sub>- C.S Lewis</sub>
 
@@ -38,6 +44,11 @@ and the wisdom to know the difference.“* <sub>- "Serenity Prayer", Reinhold Ni
 
 &nbsp;&nbsp;[UnleashX XML Config][github06]
 
+[1]:          (https://linktr.ee/alexportell)
+[2]:          (https://linkedin.com/in/portellam)
+[3]:          (https://codeberg.org/portellam)
+[4]:          (https://gitea.com/portellam)
+[5]:          (https://github.com/portellam)
 [github01]:   https://github.com/portellam/acpi-sleep
 [github02]:   https://github.com/portellam/lockdown.sh
 [github03]:   https://github.com/portellam/obsidian-para
