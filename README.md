@@ -1,6 +1,8 @@
 ## Alex Portell
 [<img title="Linktree" align="left" height="40" src="./images/linktr.ee.png"/>][5]
 [<img title="LinkedIn" align="left" height="40" src="./images/linkedin.com.ico"/>][4]
+</br>
+</br>
 [<img title="GitHub" align="left" height="40" src="./images/github.com.png"/>][3]
 [<img title="Codeberg" align="left" height="40" src="./images/codeberg.org.png"/>][1]
 [<img title="Gitea" align="left" height="40" src="./images/gitea.com.png"/>][2]
