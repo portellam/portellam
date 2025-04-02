@@ -13,7 +13,7 @@
 the courage to change the things I can,
 and the wisdom to know the difference.“* <sub>- "Serenity Prayer", Reinhold Niebuhr</sub>
 
-### View all VFIO projects [here][github07].
+### View all VFIO projects [here][github08].
 
 ### Note taking templates:
 
