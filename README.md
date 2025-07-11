@@ -20,8 +20,10 @@ and the wisdom to know the difference.“* <sub>- "Serenity Prayer", Reinhold Ni
 ### Multimedia projects:
 
 &nbsp;&nbsp;*Project Lakeside Mall*
-&nbsp;&nbsp;&nbsp;&nbsp;[Website][6]
-&nbsp;&nbsp;&nbsp;&nbsp;[Repository for Documentation][github09]
+
+&nbsp;&nbsp;
+&nbsp;&nbsp;[Website][6]
+&nbsp;&nbsp;[Repository][github09]
 
 ### Note taking templates:
 
@@ -57,4 +59,4 @@ and the wisdom to know the difference.“* <sub>- "Serenity Prayer", Reinhold Ni
 [github06]:   https://github.com/portellam/unleashx-xml-config
 [github07]:   https://github.com/portellam/vac-audio-repeater-manager
 [github08]:   https://github.com/portellam/vfio-collection
-[github08]:   https://github.com/portellam/project-lakeside-mall
+[github09]:   https://github.com/portellam/project-lakeside-mall
