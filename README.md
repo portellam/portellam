@@ -17,6 +17,12 @@ and the wisdom to know the difference.“* <sub>- "Serenity Prayer", Reinhold Ni
 
 ### View all VFIO projects [here][github08].
 
+### Multimedia projects:
+
+&nbsp;&nbsp;*Project Lakeside Mall*
+&nbsp;&nbsp;&nbsp;&nbsp;[Website][6]
+&nbsp;&nbsp;&nbsp;&nbsp;[Repository for Documentation][github09]
+
 ### Note taking templates:
 
 &nbsp;&nbsp;[Obsidian PARA][github03]
@@ -42,6 +48,7 @@ and the wisdom to know the difference.“* <sub>- "Serenity Prayer", Reinhold Ni
 [3]:          https://github.com/portellam
 [4]:          https://linkedin.com/in/portellam
 [5]:          https://linktr.ee/alexportell
+[6]:          http://www.projectlakesidemall.com
 [github01]:   https://github.com/portellam/acpi-sleep
 [github02]:   https://github.com/portellam/lockdown.sh
 [github03]:   https://github.com/portellam/obsidian-para
@@ -50,3 +57,4 @@ and the wisdom to know the difference.“* <sub>- "Serenity Prayer", Reinhold Ni
 [github06]:   https://github.com/portellam/unleashx-xml-config
 [github07]:   https://github.com/portellam/vac-audio-repeater-manager
 [github08]:   https://github.com/portellam/vfio-collection
+[github08]:   https://github.com/portellam/project-lakeside-mall
