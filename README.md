@@ -19,10 +19,10 @@ and the wisdom to know the difference.“* <sub>- "Serenity Prayer", Reinhold Ni
 
 ### Multimedia projects:
 
-&nbsp;&nbsp;**Project Lakeside Mall**
-&nbsp;&nbsp;
-&nbsp;&nbsp;[Website][6]
+#### *Project Lakeside Mall*
+
 &nbsp;&nbsp;[Repository][github09]
+&nbsp;&nbsp;[Website][6]
 
 ### Note taking templates:
 
