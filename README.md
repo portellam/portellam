@@ -21,8 +21,9 @@ and the wisdom to know the difference.“* <sub>- "Serenity Prayer", Reinhold Ni
 
 #### *Project Lakeside Mall*
 
-&nbsp;&nbsp;[Repository][github09]
-&nbsp;&nbsp;[Website][6]
+&nbsp;&nbsp;• Wish to **collaborate?** [View our Repository!][github09]
+
+&nbsp;&nbsp;• Want to **know** more? [View our website!][6]
 
 ### Note taking templates:
 
