@@ -44,6 +44,7 @@ and the wisdom to know the difference.“* <sub>- "Serenity Prayer", Reinhold Ni
 ### Video game console projects:
 
 &nbsp;&nbsp;[UnleashX XML Config][github06]
+&nbsp;&nbsp;[Xbox and Xbox 360 Title Data][github10]
 
 [1]:          https://codeberg.org/portellam
 [2]:          https://gitea.com/portellam
@@ -60,3 +61,4 @@ and the wisdom to know the difference.“* <sub>- "Serenity Prayer", Reinhold Ni
 [github07]:   https://github.com/portellam/vac-audio-repeater-manager
 [github08]:   https://github.com/portellam/vfio-collection
 [github09]:   https://github.com/portellam/project-lakeside-mall
+[github10]:   https://github.com/portellam/xbox-and-xbox-360-title-data
